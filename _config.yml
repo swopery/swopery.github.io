@@ -14,5 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "ryanspace.me" # the base hostname & protocol for your site
 github_username:  swopery
 # Build settings
-markdown: kramdown
-encoding: utf-8
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
