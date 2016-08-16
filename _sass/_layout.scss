@@ -60,6 +60,11 @@ time {
 	max-width: $content-width;
 	margin: 0 auto;
 }
+.separator {
+	font-color: $link-hover-color;
+	font-size: 30px;
+	text-align: left;
+}
 
 /* Aside */
 

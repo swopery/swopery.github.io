@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Resume
+layout: resume
+title: 
 permalink: /resume/
 ---
-Under construction
+My resume in its true format can be downloaded below
