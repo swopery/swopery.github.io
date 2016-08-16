@@ -27,7 +27,7 @@ aside nav { float: left; max-width: 800px; margin: 0 auto; }
 aside nav ul { margin: 0; padding: 0; list-style: none; }
 aside nav ul li { float: left; position: relative; }
 aside nav ul li a { text-decoration: none; display: block; padding: 15px; font-family: 'Muli', sans-serif; line-height: 20px; margin-bottom: -1px; box-shadow: 0; }
-aside nav ul li a:hover, aside nav ul li a:active { background: #1D1425; text-decoration: none; color: #19CCAA; }
+aside nav ul li a:hover, aside nav ul li a:active { background: #1D1425; font-size: 19px; text-decoration: none; color: #19CCAA; }
 aside nav:after { content: ''; display: table; clear: both; }
 
 footer { text-align: center; padding: 40px; }
