@@ -4,4 +4,4 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-I promise they exist. In the process of adding them. 
+Please see my Github profile (linked below for all projects I have uploaded! 
