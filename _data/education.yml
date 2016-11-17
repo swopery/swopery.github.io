@@ -2,8 +2,10 @@
   role: B.A. in Computer Science
   location: Middlebury, Vermont
   when: Sept 2015 - Now
-  bullets: 
-    - 'also significant coursework in: Economics and Philosophy'
+  bullets:
+	- Course work includes Data Structures, Computer Architecture, Theory of Computation, Computing for the Sciences, Algorithms (Spring 2017), Software Development (Spring (2017) 
+	- Minor in Philosophy
+	- Also significant coursework in Math, Economics (Statistics, Calc II, Discrete Mathematics) 
 - org:  Conestoga High School
   role:
   location: Berwyn, PA

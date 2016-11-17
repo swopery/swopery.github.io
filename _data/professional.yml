@@ -1,23 +1,30 @@
 - org:  Evolve IP
   role: System Engineering Intern
   location: King of Prussia, PA
-  when: June 2016 - Now
-  bullets: 
-    - Bash and Python shell scripting 
-    - Oversaw dozens of company servers from a Linux Admin perspective
-    - Completed various side projects including setting up host-dependency amongst company servers for host groups, general testing, as well as a few front-end/HTML website projects
-    - Developed a proficient level of comfort in the command line
+  when: June 2016 - Sept 2016
+  bullets:
+	- Bash and Python scripting
+	- Oversaw company servers from a Linux Admin perspective, monitoring performance/memory usage 
+	- Configured host-dependency amongst company servers for host groups,
+	- Tested various scripts and servers
+	- Completed several front-end/HTML web projects for improved design and functionality 
+	- Developed a proficiency in the Linux command line and Linux file systemsullets 
 
 - org: University of Pennsylvania Center for Sleep
   role: Lab Research Intern
   location: Philadelphia, PA
   when: May 2014 - June 2014
   bullets: 
-    - Aided in preparing various solutions and samples for research purposes 
+    - Prepared various solutions and samples for research purposes 
     - Observed microscopy results for neurological damage, gathered data in Excel
     - Analyzed data from my findings from a statistical standpoint, presented findings graphically to project head, Dr. Veasey
 
 - org: Llanerch Country Club, Martins Dam Swim Club
-  role: Assistant Tennis Professional
+  role: Assistant Tennis Instructor
   location: Havertown PA, King of Prussia PA
   when: Aug 2012 - May 2015
+  bullets:
+	- Communicated effectively with members of all ages through instructing them and accommodating their needs daily
+	- Organized clinics for members and mentored new staff members
+	- Increased tennis program attendance from 45-50 members to 120 members over one-year span with the help of head tennis professional and other instructors
+	- Provided private and specialized instruction to members as needed
