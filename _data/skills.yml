@@ -2,12 +2,12 @@
     primary:
       - Python
       - Java
+      - C
       - R (ggplot2, dplyr, tidyverse)
-      - Javascript (Node.js, React.js)
+      - Javascript (Node.js, React.js, Vue)
     secondary:
       - Bash
       - HTML
       - CSS
-    familiar with:
       - SQL
       - Matlab

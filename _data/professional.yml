@@ -1,32 +1,20 @@
+- org:  Represently
+  role: Software Developer Intern
+  location: Washington, D.C
+  when: June 2017 - Sept 2017
+  bullets:
+    - I joined Represently as a Full-Stack Software Developer Fellow to help them build out their initial core product -- a large scale web application -- as well as their condensed "beta" product. My responsibilities including implementing and testing new features from a full-stack perspective, including: implementing RESTful API endpoints with the Django REST Framework (Python), designing front-end Vue.js components with HTML/CSS and the Vue.js library (Javascript), and testing features to provide QA feedback upon their completion. In addition to my technical work as a Developer Fellow, I worked closely with the Business Development/Strategy team in making core product decisions.
+
 - org:  Evolve IP
   role: System Engineering Intern
   location: King of Prussia, PA
   when: June 2016 - Sept 2016
   bullets:
-    - Wrote powerful scripts in bash and Python for improved efficiency in every-day tasks as well as larger-scale projects
-    - Oversaw company servers from a Linux Admin perspective including monitoring performance/memory usage
-    - Configured host-dependency amongst company servers for host groups
-    - Tested various scripts and servers
-    - Completed several front-end/HTML web projects for improved design and functionality
-    - Developed a proficiency in the Linux command line and Linux file systems
-
+    - Completed various technical tasks for the Systems Engineering team, with a focus on providing System Admin services and monitoring to over 50 company Linux servers. My responsibilities included writing bash and Python scripts for automating systems related tasks and tests for increased efficiency, as well as monitoring company servers performance based on memory, load average, and CPU, resolving issues in the file systemas they arose.
 
 - org: University of Pennsylvania Center for Sleep
   role: Lab Research Intern
   location: Philadelphia, PA
   when: May 2014 - June 2014
   bullets:
-    - Prepared various solutions and samples for research purposes
-    - Observed microscopy results for neurological damage and gathered data in Excel
-    - Collected and analyzed data from my findings from a statistical standpoint and presented these findings graphically to lab director, Dr. Veasey
-
-
-- org: Llanerch Country Club, Martins Dam Swim Club
-  role: Assistant Tennis Instructor
-  location: Havertown PA, King of Prussia PA
-  when: Aug 2012 - May 2015
-  bullets:
-    - Communicated effectively with members of all ages through instructing them and accommodating their needs daily
-    - Organized clinics for members and mentored new staff members
-    - Increased tennis program attendance from 45-50 members to 120 members over one-year span with the help of head tennis professional and other instructors
-    - Provided private and specialized instruction to members as needed
+    - Joined Dr. Sigrid Veasey's lab as a Lab Research Intern at the University of Pennsylvania Center for Sleep and Circadian Neurobiology. Under Dr. Veasey, I expedited lab analytical procedures and research. I worked closely with Research Specialists in researching the molecular mechanisms underlying sleep disorders, gathering and conducting analysis on clinical trial data. My work included identifying damaged neurons in microscopy results, gathering data in Excel, and conducting basic statistical analysis to identify trends and clusters.
