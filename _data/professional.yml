@@ -13,7 +13,11 @@
   location: King of Prussia, PA
   when: June 2016 - Sept 2016
   bullets:
-    - Completed various technical tasks for the Systems Engineering team, with a focus on providing System Admin services and monitoring to over 50 company Linux servers. My responsibilities included writing bash and Python scripts for automating systems related tasks and tests for increased efficiency, as well as monitoring company servers performance based on memory, load average, and CPU, resolving issues in the file systemas they arose.
+    - Wrote powerful scripts in bash and Python for automation of and improved efficiency in every-day tasks
+    - Oversaw company servers from a Linux Admin perspective, monitoring performance and memory usage 
+    - Configured host¬¬¬-dependency amongst company servers for host groups
+    - Completed several front-end (HTML/CSS) projects for improved design and functionality in company portal
+
 
 - org: University of Pennsylvania Center for Sleep
   role: Lab Research Intern
